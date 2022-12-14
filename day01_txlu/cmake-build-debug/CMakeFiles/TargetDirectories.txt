@@ -1,0 +1,3 @@
+/Users/b_white/CODE/Own/day01_txlu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/b_white/CODE/Own/day01_txlu/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/b_white/CODE/Own/day01_txlu/cmake-build-debug/CMakeFiles/day01.dir
