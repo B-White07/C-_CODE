@@ -53,7 +53,7 @@ public:
 void test01() {
     Son s;
     cout << "Son下的m_A = " << s.m_A << endl;
-    cout << "Base下的m_A = " << s.Base::m_A << endl;//价格作用域就可以访问父类的
+    cout << "Base下的m_A = " << s.Base::m_A << endl;//加个作用域就可以访问父类的
 
     s.func();
     s.Base::func();
