@@ -1,0 +1,20 @@
+文件：
+    1.文本文件
+        (1)写文件
+        (2)读文件
+    2.二进制文件
+        (1)写文件
+        (2)读文件
+
+
+
+
+
+
+#include <iostream>
+using namespace std;
+
+int main(){
+
+    return 0;
+}
