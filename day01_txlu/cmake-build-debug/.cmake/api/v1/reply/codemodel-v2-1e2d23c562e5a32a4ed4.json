@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "day01::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-day01-Debug-b9dd9bb3e99535836722.json",
+					"jsonFile" : "target-day01-Debug-b9806707e22110b81763.json",
 					"name" : "day01",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/b_white/CODE/Own/day01_txlu/cmake-build-debug",
-		"source" : "/Users/b_white/CODE/Own/day01_txlu"
+		"build" : "/Users/b_white/GitHub/Cpp_CODE/day01_txlu/cmake-build-debug",
+		"source" : "/Users/b_white/GitHub/Cpp_CODE/day01_txlu"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 3
+		"minor" : 4
 	}
 }
